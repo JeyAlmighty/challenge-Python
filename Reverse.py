@@ -1,5 +1,5 @@
-hello = "hello"
-
+hello = "Hello"
+#output "olleH"
 newHello = ""
 
 for i in hello:
