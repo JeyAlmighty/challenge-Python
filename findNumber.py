@@ -1,5 +1,7 @@
 numbers = [1, 2, 3, 5, 6, 7, 8]
 
+# Angka yang hilang: 4
+
 def find_missing(numbers):
     for i in range(1, max(numbers) + 1):
 
