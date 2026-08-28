@@ -1,3 +1,9 @@
+# Buat program perhitungan berat badan
+# Gunakan konsep error handling
+# Satuan berat KG
+
+
+
 def timbangan():
     lbs = 2.20462
 
