@@ -1,3 +1,6 @@
+# jumlah angka
+
+
 def count_words(sentence):
 
     words = sentence.split()

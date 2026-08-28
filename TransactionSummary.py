@@ -1,3 +1,5 @@
+# Total transaksi 
+
 transactions = [
     {"name": "Andi", "amount": 50000},
     {"name": "Budi", "amount": 75000},
